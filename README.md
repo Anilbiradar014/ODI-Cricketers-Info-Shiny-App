@@ -1,2 +1,3 @@
 # ODI-Cricketers-Info-Shiny-App
+[Click Here](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/ "Shiny App Link") to view the app.
 From the two drop downs below, first, select the country of the player and then the player name.  You will get corresponding 3 plots, which will give information about :  Average runs scored by the Player each year from their debut to 2019 (or retirement) and Overall average Strike rate each year from their debut to retirement Number of hundreds scored by the selected player and Sachin Tendulkar Click on the corresponding header to view the plot. Hovering over the graph will give details about X and Y-axis Values.
